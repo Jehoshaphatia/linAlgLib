@@ -19,4 +19,9 @@ class Vector(object):
 
     def __eq__(self, v):
         return self.coordinates == v.coordinates
-        #
+    
+    def __sum__()
+        #sum code goes here
+    
+    def __multiply__()
+        #multiply code goes here
